@@ -6,6 +6,7 @@ loopFlag = 1
 tree = None
 
 def printMenu():
+    CreateXML()
     PLACE = str(input('문화공간 이름을 입력하세욘(종료는 q): '))
     if(PLACE=='q'):
         Quit()
@@ -29,7 +30,7 @@ def SearchPlace(PLACE):
 
 def CreateXML():
     key = '6e4e77665672696e3835725a787a62'
-    url = "http://openAPI.seoul.go.kr:8088/" + key + "/xml/SearchCulturalFacilitiesTrafficService/1/5/"
+    url = "http://openAPI.seoul.go.kr:8088/" + key + "/xml/SearchCulturalFacilitiesTrafficService/1/999/"
 
     data = urllib.request.urlopen(url).read()
     f = open("transportration.xml", "wb")
