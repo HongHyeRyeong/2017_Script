@@ -1,205 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchConcertDetailService>
-<list_total_count>806</list_total_count>
+<list_total_count>822</list_total_count>
 <RESULT>
 <CODE>INFO-000</CODE>
 <MESSAGE>정상 처리되었습니다</MESSAGE>
 </RESULT>
-<row>
-<CULTCODE>93507</CULTCODE>
-<SUBJCODE>19</SUBJCODE>
-<CODENAME>문화교양/강좌</CODENAME>
-<TITLE>2017. 주민대상 작은도서관 평생학습 교양프로그램 안내</TITLE>
-<STRTDATE>2017-05-19</STRTDATE>
-<END_DATE>2017-05-29</END_DATE>
-<TIME>오전10시 ~ 12시</TIME>
-<PLACE>작은도서관 책읽는엄마 책읽는아이(성동구 매봉18길 11 금호동3가 마을소통공간 산책)</PLACE>
-<ORG_LINK>http://www.sd.go.kr/sd/event.do?mCode=13F020000000&amp;op=perfomanceForm&amp;seq=2479&amp;rnum=1</ORG_LINK>
-<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170515153817.jpg</MAIN_IMG>
-<HOMEPAGE/>
-<USE_TRGT>전연령 대상 &#13;
--마을문화기획자 양성교육: 관심 있는 분 누구나&#13;
--마을술 생태공방 참여교육: 관심 있는 분 누구나&#13;
--어른을 위한 그림책 교실: 그림책에 관심이 있는 분 누구나</USE_TRGT>
-<USE_FEE>-마을문화기획자 양성교육: 5만원 &#13;
--마을숲 생태공방 참여교육: 2만원&#13;
--어른을 위한 그림책 교실: 3만원</USE_FEE>
-<SPONSOR/>
-<INQUIRY>2297-5935</INQUIRY>
-<SUPPORT/>
-<ETC_DESC>▣ 교육 및 프로그램 문의: &#13;
-  작은도서관 책읽는엄마 책읽는아이 (02) 2297-5935)&#13;
-  주소: 울시 성동구 매봉18길 11 마을소통공간 산책 1층 (금호동3가)</ETC_DESC>
-<AGELIMIT>0</AGELIMIT>
-<IS_FREE>0</IS_FREE>
-<TICKET>1</TICKET>
-<PROGRAM>-마을문화기획자 양성교육&#13;
--마을숲 생태공방 참여교육&#13;
--어른을 위한 그림채 교실</PROGRAM>
-<PLAYER>강사, 주민, 마을활동가 등</PLAYER>
-<CONTENTS/>
-<GCODE>성동구</GCODE>
-</row>
-<row>
-<CULTCODE>93325</CULTCODE>
-<SUBJCODE>19</SUBJCODE>
-<CODENAME>문화교양/강좌</CODENAME>
-<TITLE>자양제4동도서관 토탈공예 모집안내</TITLE>
-<STRTDATE>2017-05-08</STRTDATE>
-<END_DATE>2017-05-29</END_DATE>
-<TIME>매주 월요일 10:00~11:30 &lt;총4회&gt;</TIME>
-<PLACE>자양제4동도서관 소강의실</PLACE>
-<ORG_LINK>http://www.gwangjinlib.seoul.kr/KJL/community/view.csp?sccode=notice&amp;sccodeRTitle=notice&amp;scKey=2106&amp;scPageNo=1&amp;BasicList=TABLE&amp;scCategorySr=3&amp;scBranchSr=&amp;scReceiptWrSr=&amp;scReceiptStateSr=&amp;scSearchSr=&amp;scSearchKeySr=&amp;scUserSr=&amp;scUserKeySr=&amp;scDateWriteSr=&amp;scSortSr=&amp;scOrderSr=</ORG_LINK>
-<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170503163602.JPG</MAIN_IMG>
-<HOMEPAGE/>
-<USE_TRGT>55세 이상 어르신 8명</USE_TRGT>
-<USE_FEE>무료</USE_FEE>
-<SPONSOR/>
-<INQUIRY>465-0737</INQUIRY>
-<SUPPORT/>
-<ETC_DESC>○ 모집안내 &#13;
-- 모집기간: 2017년 4월 26일(수) 09:00- 마감 시까지 &#13;
-- 접 수 처: 도서관 안내데스크 &#13;
-- 접수방법: 선착순, 직접 방문 접수, 시니어토탈공예는  전화접수 가능 &#13;
-- 준 비 물: 도서관 회원증</ETC_DESC>
-<AGELIMIT>0</AGELIMIT>
-<IS_FREE>1</IS_FREE>
-<TICKET>1</TICKET>
-<PROGRAM>- 강의내용: 비단 천 공예, 냅킨 데쿠파주, 리스 장식</PROGRAM>
-<PLAYER>- 강사: 김경애 선생님</PLAYER>
-<CONTENTS/>
-<GCODE>광진구</GCODE>
-</row>
-<row>
-<CULTCODE>93043</CULTCODE>
-<SUBJCODE>19</SUBJCODE>
-<CODENAME>문화교양/강좌</CODENAME>
-<TITLE>금천구 호암산 산림치유프로그램(성인 1회참가)</TITLE>
-<STRTDATE>2017-04-17</STRTDATE>
-<END_DATE>2017-05-29</END_DATE>
-<TIME/>
-<PLACE>호암산 치유의 숲</PLACE>
-<ORG_LINK>http://www.youthnavi.com/expinfo/expinfo_view.jsp?uid=131478</ORG_LINK>
-<MAIN_IMG>http://www.youthnavi.com/data/yseoul_img/P2fyTBL7FdCqf2vY3n5bcPJorBm6Ki.jpg</MAIN_IMG>
-<HOMEPAGE/>
-<USE_TRGT>성인</USE_TRGT>
-<USE_FEE>0</USE_FEE>
-<SPONSOR/>
-<INQUIRY>02-2627-1665</INQUIRY>
-<SUPPORT/>
-<ETC_DESC/>
-<AGELIMIT/>
-<IS_FREE>1</IS_FREE>
-<TICKET/>
-<PROGRAM/>
-<PLAYER/>
-<CONTENTS>&lt;ul&gt; &#13;
- &lt;li&gt; &lt;h4&gt;1. 공공시설 예약서비스 이용시 필수 준수사항&lt;/h4&gt; &lt;p&gt;모든 서비스의 이용은 담당 기관의 규정에 따릅니다. 각 시설의 규정 및 허가조건을 반드시 준수하여야 합니다.&lt;br /&gt;&#13;
- 각 관리기관의 시설물과 부대시설을 이용함에 있어 담당자들과 협의 후 사용합니다.&lt;br /&gt;&#13;
- 각 관리기관의 사고 발생시 서울시청에서는 어떠한 책임도 지지않습니다.&lt;br /&gt;&#13;
- 시설이용료 납부는 각 관리기관에서 규정에 준 합니다.&lt;br /&gt;&#13;
- 본 사이트와 각 관리기관의 규정을 위반할시에는 시설이용 취소 및 시설이용 불허의 조치를 취할 수 있습니다.&lt;br /&gt;&#13;
- &#13;
-   &lt;!&amp;#45;&amp;#45; Fixed #951 &amp;#45;&amp;#45;&gt; 접수시간을 기준으로 브라우저에서 새로고침을 하면 변경된 정보를 볼 수 있습니다. &lt;/p&gt; &lt;/li&gt; &#13;
- &lt;li&gt; &lt;h4&gt;2. 시설예약&lt;/h4&gt; &lt;p&gt;비회원일 경우에는 실명 확인을 통하여 사용하실 수 있으며 서울시 통합 회원에 가입 하시게 되면 서울시에서 제공하는 다양하고 많은 혜택을 받으실 수 있습니다.&lt;/p&gt; &lt;/li&gt; &#13;
- &lt;li&gt; &lt;h4&gt;3. 상세내용&lt;/h4&gt; &lt;p&gt;&lt;img alt=&amp;quot;&amp;quot; src=&amp;quot;http://yeyak.seoul.go.kr/userfiles/images/gN43zXgl3rgYM4FWlN723s9L7I8Cg6.png&amp;quot; /&gt;zzzzz&lt;/p&gt; &lt;/li&gt; &#13;
- &lt;li&gt; &lt;h4&gt;4. 주의사항&lt;/h4&gt; &lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&amp;quot;font-family: Arial; font-size: 14px;&amp;quot;&gt;안내사항&lt;br /&gt;&#13;
-&lt;br /&gt;&#13;
-&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&amp;quot;font-family: Arial; font-size: 14px;&amp;quot;&gt;- 어린이동반이 불가능하며, 산림치유지도사 인솔하에 단체로 활동하게 됩니다.&lt;/span&gt;&lt;br /&gt;&#13;
-&lt;span style=&amp;quot;font-family: Arial; font-size: 14px;&amp;quot;&gt;&lt;br /&gt;&#13;
-- 본인 확인을 위해 예약확인증을 출력해 오세요.&lt;/span&gt;&lt;br /&gt;&#13;
-&lt;span style=&amp;quot;font-family: Arial; font-size: 14px;&amp;quot;&gt;&lt;br /&gt;&#13;
-- 향수 또는 냄새가 진한 화장품, 화려한 색상의 옷은 피하세요.&lt;/span&gt;&lt;br /&gt;&#13;
-&lt;span style=&amp;quot;font-family: Arial; font-size: 14px;&amp;quot;&gt;&lt;br /&gt;&#13;
-- 프로그램 참여동의서 작성 후 참여하실 수 있습니다.&lt;/span&gt;&lt;br /&gt;&#13;
-&lt;span style=&amp;quot;font-family: Arial; font-size: 14px;&amp;quot;&gt;&lt;br /&gt;&#13;
-- 오시는길은 미리 숙지해 주시고, 프로그램 시작시간을 준수해 주세요.&lt;/span&gt;&lt;br /&gt;&#13;
-&lt;span style=&amp;quot;font-family: Arial; font-size: 14px;&amp;quot;&gt;&lt;br /&gt;&#13;
-- 우천 등 기상사정이나 신청인원이 미달될 경우 취소될 수 있습니다.&lt;/span&gt;&lt;br /&gt;&#13;
-&lt;span style=&amp;quot;font-family: Arial; font-size: 14px;&amp;quot;&gt;&lt;br /&gt;&#13;
-- 무단결석시 다음 프로그램 예약시 신청제한 등 불이익을 받으실 수 있습니다.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&amp;quot;font-family: 바탕체; font-size: 14px;&amp;quot;&gt;&lt;span style=&amp;quot;font-family: Arial;&amp;quot;&gt;&lt;br /&gt;&#13;
-* 예약 취소는 이용일로부터 2일전까지 가능합니다&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;/li&gt; &#13;
-&lt;/ul&gt;</CONTENTS>
-<GCODE>금천구</GCODE>
-</row>
-<row>
-<CULTCODE>92028</CULTCODE>
-<SUBJCODE>19</SUBJCODE>
-<CODENAME>문화교양/강좌</CODENAME>
-<TITLE>난타 퍼포먼스 초급</TITLE>
-<STRTDATE>2017-03-06</STRTDATE>
-<END_DATE>2017-05-29</END_DATE>
-<TIME>13:10-14:40</TIME>
-<PLACE>송파문화원 102호</PLACE>
-<ORG_LINK>http://www.spcc.or.kr/prgdetail.asp?psection=&amp;dayofweek=&amp;key=&amp;keyf=&amp;epit_num=20301010&amp;pname=전문의와 함께하는 통증교실&amp;pg=1</ORG_LINK>
-<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170310165614.jpg</MAIN_IMG>
-<HOMEPAGE/>
-<USE_TRGT>성인</USE_TRGT>
-<USE_FEE>6만원(3개월)</USE_FEE>
-<SPONSOR/>
-<INQUIRY>414-0354</INQUIRY>
-<SUPPORT/>
-<ETC_DESC/>
-<AGELIMIT>0</AGELIMIT>
-<IS_FREE>0</IS_FREE>
-<TICKET/>
-<PROGRAM/>
-<PLAYER/>
-<CONTENTS/>
-<GCODE>송파구</GCODE>
-</row>
-<row>
-<CULTCODE>92022</CULTCODE>
-<SUBJCODE>19</SUBJCODE>
-<CODENAME>문화교양/강좌</CODENAME>
-<TITLE>여행풍경 스케치(연필, 목탄,콘테 등)</TITLE>
-<STRTDATE>2017-03-07</STRTDATE>
-<END_DATE>2017-05-29</END_DATE>
-<TIME>10:00-12:00</TIME>
-<PLACE>송파문화원 103호</PLACE>
-<ORG_LINK>http://www.spcc.or.kr/prgdetail.asp?psection=&amp;dayofweek=&amp;key=&amp;keyf=&amp;epit_num=20201009&amp;pname=여행풍경 스케치(연필, 목탄,콘테 등)&amp;pg=1</ORG_LINK>
-<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170310165614.jpg</MAIN_IMG>
-<HOMEPAGE/>
-<USE_TRGT>12세 이상</USE_TRGT>
-<USE_FEE>90,000(3개월)</USE_FEE>
-<SPONSOR/>
-<INQUIRY>414-0354</INQUIRY>
-<SUPPORT/>
-<ETC_DESC>그리고 싶은 풍경을 연필, 목탄, 콘테와 같은 다양한 소묘재료로 체험해 보며 풍경드로잉의 기본기를 마스터해 본다.</ETC_DESC>
-<AGELIMIT>0</AGELIMIT>
-<IS_FREE>0</IS_FREE>
-<TICKET/>
-<PROGRAM/>
-<PLAYER/>
-<CONTENTS/>
-<GCODE>송파구</GCODE>
-</row>
-<row>
-<CULTCODE>90398</CULTCODE>
-<SUBJCODE>19</SUBJCODE>
-<CODENAME>문화교양/강좌</CODENAME>
-<TITLE>문화교실 프로그램(함께 하는 책읽기의 힘)</TITLE>
-<STRTDATE>2017-05-08</STRTDATE>
-<END_DATE>2017-05-29</END_DATE>
-<TIME>10:30~12:20</TIME>
-<PLACE>장안어린이도서관</PLACE>
-<ORG_LINK>http://www.l4d.or.kr/ddmeach/index.php?g_page=culture&amp;m_page=culture01&amp;act=lecture_view&amp;lgCode=15&amp;leCode=607</ORG_LINK>
-<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170209155140.GIF</MAIN_IMG>
-<HOMEPAGE/>
-<USE_TRGT>성인</USE_TRGT>
-<USE_FEE>무료</USE_FEE>
-<SPONSOR/>
-<INQUIRY>2249-1959</INQUIRY>
-<SUPPORT/>
-<ETC_DESC/>
-<AGELIMIT>0</AGELIMIT>
-<IS_FREE>1</IS_FREE>
-<TICKET>1</TICKET>
-<PROGRAM>성인 대상 교육 프로그램</PROGRAM>
-<PLAYER/>
-<CONTENTS/>
-<GCODE>동대문구</GCODE>
-</row>
 <row>
 <CULTCODE>93754</CULTCODE>
 <SUBJCODE>10</SUBJCODE>
@@ -5887,6 +5692,34 @@ DELF/DALF 취득&#13;
 <GCODE>금천구</GCODE>
 </row>
 <row>
+<CULTCODE>93793</CULTCODE>
+<SUBJCODE>1</SUBJCODE>
+<CODENAME>콘서트</CODENAME>
+<TITLE>제100회 강남심포니오케스트라 브런치콘서트</TITLE>
+<STRTDATE>2017-06-01</STRTDATE>
+<END_DATE>2017-06-01</END_DATE>
+<TIME>11:00</TIME>
+<PLACE>강남구민회관</PLACE>
+<ORG_LINK>http://www.gfac.kr/client/perform/eventView.do?id=16e63904-437d-4845-91e5-807953af6e96</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529153059.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>미취학 아동 입장불가</USE_TRGT>
+<USE_FEE>15000원</USE_FEE>
+<SPONSOR/>
+<INQUIRY>6712-0533</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>0</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>사랑의 인사, 엘가/바이올린과 비올라를 위한 신포니아 콘체르탄테, 모차르트&#13;
+치고이네르바이젠,사라사테/이탈리아 기상곡, 차이콥스키</PROGRAM>
+<PLAYER>지 휘/해설/비올라 - 성기선&#13;
+협 연 - 이경선(바이올린)</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
+</row>
+<row>
 <CULTCODE>93654</CULTCODE>
 <SUBJCODE>19</SUBJCODE>
 <CODENAME>문화교양/강좌</CODENAME>
@@ -7146,6 +6979,35 @@ F. Schubert         Quartet in d minor, D. 810 &amp;quot;죽음과 소녀&amp;qu
 <GCODE>동대문구</GCODE>
 </row>
 <row>
+<CULTCODE>93805</CULTCODE>
+<SUBJCODE>19</SUBJCODE>
+<CODENAME>문화교양/강좌</CODENAME>
+<TITLE>날도 좋은데 엄마아빤 집에서 모하나</TITLE>
+<STRTDATE>2017-06-03</STRTDATE>
+<END_DATE>2017-06-03</END_DATE>
+<TIME>2017년 6월 3일 오후2시</TIME>
+<PLACE>양재초등학교 3층 대강당 (서울특별시 서초구 바우뫼로 18길 14)</PLACE>
+<ORG_LINK>http://cafe.naver.com/mamkium</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170530102857.gif</MAIN_IMG>
+<HOMEPAGE>http://cafe.naver.com/mamkium</HOMEPAGE>
+<USE_TRGT>누구나</USE_TRGT>
+<USE_FEE/>
+<SPONSOR>서초구 양육품앗이 맘키움</SPONSOR>
+<INQUIRY>070-7571-9956</INQUIRY>
+<SUPPORT>서울시 (서울시 서초구 내곡동 주민참여사업), 디자인팜, 운화한의원</SUPPORT>
+<ETC_DESC>사전접수 : https://goo.gl/ulX0GF&#13;
+카페 : http://cafe.naver.com/mamkium</ETC_DESC>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>0</TICKET>
+<PROGRAM>순서 : 우리 아이도 댄스시키고싶다 &amp;#39;사파리 댄스팀&amp;#39;공연&#13;
+          아이보단 부모 마음 먼저! &amp;#39;부부교육&amp;#39;&#13;
+          가족의 잃어버린 마음을 찾아서 출발! &amp;#39;가족레크레이션&amp;#39;</PROGRAM>
+<PLAYER>오영일(부모마인드교육 전문강사)</PLAYER>
+<CONTENTS>&lt;img src=&amp;quot;/data/ci/20170530103428.gif&amp;quot; /&gt;&lt;img src=&amp;quot;/data/ci/20170530103127.gif&amp;quot; /&gt;</CONTENTS>
+<GCODE>서초구</GCODE>
+</row>
+<row>
 <CULTCODE>93566</CULTCODE>
 <SUBJCODE>3</SUBJCODE>
 <CODENAME>뮤지컬/오페라</CODENAME>
@@ -7627,6 +7489,33 @@ Sonata No. 2 in G Major for Violin and Piano M. 77&lt;br /&gt;&#13;
 <PLAYER>선생님: 모아스토리 강민기PD, 방송스템3명</PLAYER>
 <CONTENTS/>
 <GCODE>도봉구</GCODE>
+</row>
+<row>
+<CULTCODE>93800</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>도곡시네마 &lt;빌리엘리어트&gt;</TITLE>
+<STRTDATE>2017-06-04</STRTDATE>
+<END_DATE>2017-06-04</END_DATE>
+<TIME>14:00 ~ 15:50</TIME>
+<PLACE>도곡정보문화도서관 책사랑방</PLACE>
+<ORG_LINK>http://dogoklib.gangnam.go.kr/education/detail?lecture_id=2175</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529161203.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>12세 이상 관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2176-0788</INQUIRY>
+<SUPPORT/>
+<ETC_DESC>영어 음성 / 한국어 자막</ETC_DESC>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>빌리, 왜 발레를 하니?&#13;
+그냥 기분이 좋아요. 하늘을 나는 새가 된 것처럼요!</PROGRAM>
+<PLAYER>제이미 벨(빌리 엘리어트), 줄리 월터스(윌킨슨 부인), 게리 루이스(아버지 재키 엘리어트)</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
 </row>
 <row>
 <CULTCODE>93634</CULTCODE>
@@ -10054,6 +9943,32 @@ Allegro, ma non troppo</CONTENTS>
 <GCODE>노원구</GCODE>
 </row>
 <row>
+<CULTCODE>93796</CULTCODE>
+<SUBJCODE>10</SUBJCODE>
+<CODENAME>기타</CODENAME>
+<TITLE>금요무대 &lt;오즈에게 물어봐!&gt;</TITLE>
+<STRTDATE>2017-06-09</STRTDATE>
+<END_DATE>2017-06-09</END_DATE>
+<TIME>10:00~/ 11:30~</TIME>
+<PLACE>역삼1강남씨어터</PLACE>
+<ORG_LINK>http://www.gfac.kr/client/perform/eventView.do?id=8a85f03a-f51b-4665-b7d4-ae0655d7b8e9</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529154936.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>36개월 이상</USE_TRGT>
+<USE_FEE>5000원</USE_FEE>
+<SPONSOR/>
+<INQUIRY>6712-0543</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>0</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>어린이 성폭력예방 성교육뮤지컬</PROGRAM>
+<PLAYER>님비곰비</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
+</row>
+<row>
 <CULTCODE>93725</CULTCODE>
 <SUBJCODE>6</SUBJCODE>
 <CODENAME>무용</CODENAME>
@@ -10346,6 +10261,32 @@ Allegro, ma non troppo</CONTENTS>
 <PLAYER>- 강사: 김성우(*철학박사 / 現 兀人고전학당 연구소장)</PLAYER>
 <CONTENTS/>
 <GCODE>광진구</GCODE>
+</row>
+<row>
+<CULTCODE>93791</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>바비와 동생들의 신나는 퍼피 어드벤처</TITLE>
+<STRTDATE>2017-06-10</STRTDATE>
+<END_DATE>2017-06-10</END_DATE>
+<TIME>토요일 오후 2시~</TIME>
+<PLACE>강서문화원</PLACE>
+<ORG_LINK>http://www.kcc2000.or.kr/bbs/pds_view.asp?idx=1&amp;BGNO=1000&amp;hno=79</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529144647.JPG</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>전체관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2692-4266</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>우리말녹음/75분</PROGRAM>
+<PLAYER/>
+<CONTENTS/>
+<GCODE>강서구</GCODE>
 </row>
 <row>
 <CULTCODE>93744</CULTCODE>
@@ -11295,6 +11236,58 @@ A석 20,000원&#13;
 <PLAYER/>
 <CONTENTS/>
 <GCODE>서대문구</GCODE>
+</row>
+<row>
+<CULTCODE>93798</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>독립영화상영 &lt;아티스트: 다시 태어나다&gt;</TITLE>
+<STRTDATE>2017-06-13</STRTDATE>
+<END_DATE>2017-06-13</END_DATE>
+<TIME>13:00</TIME>
+<PLACE>오유아트홀</PLACE>
+<ORG_LINK>http://www.gfac.kr/client/perform/eventView.do?id=9cdf36cf-2cb1-4d1d-baf9-83dc766153af</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529155447.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>15세 이상 관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>02-6712-0534</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>데뷔와 동시에 세상에서 사라진 아티스트 &amp;#39;지젤&amp;#39;이 주목을 받자 &amp;#39;재범&amp;#39;은 더 위대한 그림을 만들기 위한 &amp;#39;아티스트 프로젝트&amp;#39;를 계획하고...</PROGRAM>
+<PLAYER>감      독 : 김경원</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
+</row>
+<row>
+<CULTCODE>93786</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>마이펫의 이중생활</TITLE>
+<STRTDATE>2017-06-13</STRTDATE>
+<END_DATE>2017-06-13</END_DATE>
+<TIME>화요일 오후 4시~</TIME>
+<PLACE>강서문화원</PLACE>
+<ORG_LINK>http://www.kcc2000.or.kr/bbs/pds_view.asp?idx=1&amp;BGNO=1000&amp;hno=79</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529143049.JPG</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>전체 관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2692-4266</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>우리말녹음/90분</PROGRAM>
+<PLAYER/>
+<CONTENTS/>
+<GCODE>강서구</GCODE>
 </row>
 <row>
 <CULTCODE>93682</CULTCODE>
@@ -12626,6 +12619,34 @@ BOXBOX놀이탐험대, 숲밧줄놀이)</PROGRAM>
 <GCODE>서대문구</GCODE>
 </row>
 <row>
+<CULTCODE>93802</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>도곡시네마 &lt;슈퍼미니&gt;</TITLE>
+<STRTDATE>2017-06-18</STRTDATE>
+<END_DATE>2017-06-18</END_DATE>
+<TIME>14:00 ~ 15:28</TIME>
+<PLACE>도곡정보문화도서관 책사랑방</PLACE>
+<ORG_LINK>http://dogoklib.gangnam.go.kr/education/detail?lecture_id=2177</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529161917.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>전체 관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2176-0788</INQUIRY>
+<SUPPORT/>
+<ETC_DESC>프랑스어 음성 / 한국어 자막</ETC_DESC>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>작은 녀석들의 거대한 숲 속 어드벤처가 시작된다!&#13;
+가족을 잃고 혼자 남겨진 무당벌레 &amp;#39;땡글이&amp;#39;&#13;
+흑개미들과 함께 설탕을 운반하는 거대한 여정에 오르게 되고,</PROGRAM>
+<PLAYER>* 감독 : 토마스 자보, 헬레네 지라드</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
+</row>
+<row>
 <CULTCODE>93713</CULTCODE>
 <SUBJCODE>7</SUBJCODE>
 <CODENAME>전시/미술</CODENAME>
@@ -13199,6 +13220,60 @@ HAVE A TALK 네 번째 이야기에 여러분을 초대합니다</PROGRAM>
    &lt;!&amp;#45;&amp;#45;startfragment&amp;#45;&amp;#45;&gt;&lt;/p&gt; &lt;p class=&amp;quot;0&amp;quot; style=&amp;quot;mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt; mso-list: l1 level1 lfo2;&amp;quot;&gt;&lt;span lang=&amp;quot;EN-US&amp;quot; style=&amp;quot;letter-spacing: 0pt; font-family: 함초롬바탕; mso-font-width: 100%; mso-text-raise: 0pt;&amp;quot;&gt;(&lt;/span&gt;&lt;span style=&amp;quot;mso-fareast-font-family: 함초롬바탕;&amp;quot;&gt;차량이용시 주차요금 발생&lt;/span&gt;&lt;span lang=&amp;quot;EN-US&amp;quot; style=&amp;quot;letter-spacing: 0pt; font-family: 함초롬바탕; mso-font-width: 100%; mso-text-raise: 0pt;&amp;quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt; &lt;/li&gt; &#13;
 &lt;/ul&gt;</CONTENTS>
 <GCODE>관악구</GCODE>
+</row>
+<row>
+<CULTCODE>93807</CULTCODE>
+<SUBJCODE>10</SUBJCODE>
+<CODENAME>기타</CODENAME>
+<TITLE>마포구립합창단 제10회 정기연주회 ‘아름다운 飛上(비상)’</TITLE>
+<STRTDATE>2017-06-20</STRTDATE>
+<END_DATE>2017-06-20</END_DATE>
+<TIME>19시 30분(화)</TIME>
+<PLACE>마포아트센터 아트홀맥</PLACE>
+<ORG_LINK>http://bit.ly/2sg5GIO</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170530152658.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>취학아동 이상</USE_TRGT>
+<USE_FEE>전석무료(공연 당일 선착순 티켓 배부)</USE_FEE>
+<SPONSOR/>
+<INQUIRY>3274-8600</INQUIRY>
+<SUPPORT/>
+<ETC_DESC>마포구립합창단의 열 번째 정기연주회로, 수준 높은 합창 연주를 통해 2016년 대통령상 수상 이후 비상(飛上)하는 합창단의 모습을 선보이고 음악을 통해 지역주민들과 소통하는 기회 마련</ETC_DESC>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>○ 마포구립합창단 with 10인조 앙상블 &#13;
+○ 스페셜 게스트 : 마림바 &amp; 플루트 듀오&#13;
+○ 마포구립합창단</PROGRAM>
+<PLAYER>출 연 진 : 마포구립합창단(지휘 김진수, 피아노 정현정)</PLAYER>
+<CONTENTS/>
+<GCODE>마포구</GCODE>
+</row>
+<row>
+<CULTCODE>93789</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>터닝메카드 : 블랙미러의 부활</TITLE>
+<STRTDATE>2017-06-20</STRTDATE>
+<END_DATE>2017-06-20</END_DATE>
+<TIME>화요일 오후 4시~</TIME>
+<PLACE>강서문화원</PLACE>
+<ORG_LINK>http://www.kcc2000.or.kr/bbs/pds_view.asp?idx=1&amp;BGNO=1000&amp;hno=79</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529144414.JPG</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>전체 관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2692-4266</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>우리말녹음/73분</PROGRAM>
+<PLAYER/>
+<CONTENTS/>
+<GCODE>강서구</GCODE>
 </row>
 <row>
 <CULTCODE>93719</CULTCODE>
@@ -13785,6 +13860,38 @@ Piano Sonata in b minor, S. 178</CONTENTS>
 <GCODE>마포구</GCODE>
 </row>
 <row>
+<CULTCODE>93794</CULTCODE>
+<SUBJCODE>1</SUBJCODE>
+<CODENAME>콘서트</CODENAME>
+<TITLE>6월 목요상설무대(매주 목요일)</TITLE>
+<STRTDATE>2017-06-01</STRTDATE>
+<END_DATE>2017-06-22</END_DATE>
+<TIME>19:30</TIME>
+<PLACE>강남구민회관</PLACE>
+<ORG_LINK>http://www.gfac.kr/client/perform/eventView.do?id=a134844f-f44a-4722-b7d8-c107d40a0ffd</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529153747.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>누구나</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>6712-0542</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT/>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>6월  1일 - 우리 춤 대중 속으로&lt;천년학&gt;&#13;
+6월  8일 - 강남구민과 함께하는 나라사랑 음악회&#13;
+6월 15일 - 이판사판 힐링콘서트&#13;
+6월 22일 - 해피콘서트</PROGRAM>
+<PLAYER>6월  1일 - 강남전통예술단&#13;
+6월  8일 - 국립경찰교향악단&#13;
+6월 15일 - 창작국악팀 THE+미소&#13;
+6월 22일 - 서울기타콰르텟</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
+</row>
+<row>
 <CULTCODE>93742</CULTCODE>
 <SUBJCODE>19</SUBJCODE>
 <CODENAME>문화교양/강좌</CODENAME>
@@ -14147,6 +14254,34 @@ Piano Sonata in b minor, S. 178</CONTENTS>
 <GCODE>성동구</GCODE>
 </row>
 <row>
+<CULTCODE>93797</CULTCODE>
+<SUBJCODE>10</SUBJCODE>
+<CODENAME>기타</CODENAME>
+<TITLE>금요무대 &lt;하쿠나 마타타&gt;</TITLE>
+<STRTDATE>2017-06-23</STRTDATE>
+<END_DATE>2017-06-23</END_DATE>
+<TIME>10:00~/ 11:30~</TIME>
+<PLACE>역삼1강남씨어터</PLACE>
+<ORG_LINK>http://www.gfac.kr/client/perform/eventView.do?id=54f0630c-d8a4-43f5-9413-02210db67c50</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529155228.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>36개월 이상</USE_TRGT>
+<USE_FEE>5000원</USE_FEE>
+<SPONSOR/>
+<INQUIRY>6712-0543</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>0</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>아프리카와 전통 연희의 만남!&#13;
+&#13;
+ 사자 VS 사자탈이 벌이는 좌충우돌 우정 이야기</PROGRAM>
+<PLAYER>예술과 마음</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
+</row>
+<row>
 <CULTCODE>93743</CULTCODE>
 <SUBJCODE>19</SUBJCODE>
 <CODENAME>문화교양/강좌</CODENAME>
@@ -14300,6 +14435,32 @@ Piano Sonata in b minor, S. 178</CONTENTS>
 <PLAYER>관악어린이창작놀이터</PLAYER>
 <CONTENTS>‘2017 예술로 놀이터’는 예술가의 창작활동과 연계한 체험, 과정, 놀이중심의 어린이 예술교육 프로그램입니다.</CONTENTS>
 <GCODE>관악구</GCODE>
+</row>
+<row>
+<CULTCODE>93792</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>도라에몽 : 스텐바이미</TITLE>
+<STRTDATE>2017-06-24</STRTDATE>
+<END_DATE>2017-06-24</END_DATE>
+<TIME>토요일 오후 2시~</TIME>
+<PLACE>강서문화원</PLACE>
+<ORG_LINK>http://www.kcc2000.or.kr/bbs/pds_view.asp?idx=1&amp;BGNO=1000&amp;hno=79</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529145558.JPG</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>전체관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2692-4266</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>우리말녹음/95분</PROGRAM>
+<PLAYER/>
+<CONTENTS/>
+<GCODE>강서구</GCODE>
 </row>
 <row>
 <CULTCODE>93751</CULTCODE>
@@ -14888,6 +15049,63 @@ Robert Schumann                     Papillons, Op. 2&lt;br /&gt;&#13;
 <PLAYER/>
 <CONTENTS/>
 <GCODE>서대문구</GCODE>
+</row>
+<row>
+<CULTCODE>93806</CULTCODE>
+<SUBJCODE>2</SUBJCODE>
+<CODENAME>클래식</CODENAME>
+<TITLE>스바보드나 2017 - 서울</TITLE>
+<STRTDATE>2017-06-25</STRTDATE>
+<END_DATE>2017-06-25</END_DATE>
+<TIME>2017.6.25(일) 오후 3:30, 7:00</TIME>
+<PLACE>서울 여의도 KBS홀</PLACE>
+<ORG_LINK>http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=17006734</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170530141710.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>이취학아동 입장불가(초등학생 이상 관람가능)</USE_TRGT>
+<USE_FEE>VIP석 100,000원 / R석 80,000원 / S석 60,000원</USE_FEE>
+<SPONSOR/>
+<INQUIRY>1899-2199</INQUIRY>
+<SUPPORT/>
+<ETC_DESC>라시아 상트페테르부르크 국립음악원 및 영국 런던 왕립 음악대학 교수진의 수준높은 연주와 섬세하면서도 아름다운 하모니로 세계 무대에서 인정받은 그라시아스합창단의 저명 오페라곡, 오라토리오, 세계인들의 애창곡 및 한국 가곡까지 시공간을 초월한 클래식의 향연이 펼쳐진다.</ETC_DESC>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>0</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>‘스바보드나’는 ‘자유롭게’라는 의미로 원숙한 음악세계를 소유한 세계적인 거장들이 관객들을 자유로운 클래식의 세계로 안내한다.</PROGRAM>
+<PLAYER>Conductor / Boris Abalyan&#13;
+Cellist / Alexei Massarsky &#13;
+Flutist / Paul Edmund-Davies&#13;
+Pianist / Mikhail Benediktov&#13;
+Violinist / Chingiz Osmanov&#13;
+Gracias Choir &amp; Orchestra</PLAYER>
+<CONTENTS/>
+<GCODE>영등포구</GCODE>
+</row>
+<row>
+<CULTCODE>93803</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>도곡시네마 &lt;슈렉포에버&gt;</TITLE>
+<STRTDATE>2017-06-25</STRTDATE>
+<END_DATE>2017-06-25</END_DATE>
+<TIME>14:00 ~ 15:33</TIME>
+<PLACE>도곡정보문화도서관 책사랑방</PLACE>
+<ORG_LINK>http://dogoklib.gangnam.go.kr/education/detail?lecture_id=2178</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529162157.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>전체 관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2176-0788</INQUIRY>
+<SUPPORT/>
+<ETC_DESC>영어 음성 / 한국어 자막</ETC_DESC>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>슈렉이 아름다운 공주 피오나와 겁나먼 왕국을 구해낸 이후. 그들도 오래오래 행복하게 살았더라면 참 좋았을텐데! 과연 슈렉에게도 모두가 바라던 해피엔딩이?</PROGRAM>
+<PLAYER>마이크 마이어스(슈렉 목소리), 에디 머피(동키 목소리), 카메론 디아즈(피오나 공주 목소리)</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
 </row>
 <row>
 <CULTCODE>93749</CULTCODE>
@@ -15505,6 +15723,58 @@ S. Prokofiev		Sonata in D Major for Flute and Piano, Op. 94, No. 2&lt;br /&gt;</
 <PLAYER/>
 <CONTENTS/>
 <GCODE>종로구</GCODE>
+</row>
+<row>
+<CULTCODE>93799</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>독립영화상영 &lt;아티스트: 다시 태어나다&gt;</TITLE>
+<STRTDATE>2017-06-27</STRTDATE>
+<END_DATE>2017-06-27</END_DATE>
+<TIME>19:00</TIME>
+<PLACE>대청역 SH공사대강당</PLACE>
+<ORG_LINK>http://www.gfac.kr/client/perform/eventView.do?id=cf5268fb-67fb-439c-9c02-fc1d3c2fadd9</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529155447.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>15세 이상 관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>6712-0534</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>데뷔와 동시에 세상에서 사라진 아티스트 &amp;#39;지젤&amp;#39;이 주목을 받자 &amp;#39;재범&amp;#39;은 더 위대한 그림을 만들기 위한 &amp;#39;아티스트 프로젝트&amp;#39;를 계획하고...</PROGRAM>
+<PLAYER>감      독 : 김경원</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
+</row>
+<row>
+<CULTCODE>93790</CULTCODE>
+<SUBJCODE>18</SUBJCODE>
+<CODENAME>영화</CODENAME>
+<TITLE>아이스에이지 : 지구대충돌</TITLE>
+<STRTDATE>2017-06-27</STRTDATE>
+<END_DATE>2017-06-27</END_DATE>
+<TIME>화요일 오후 4시~</TIME>
+<PLACE>강서문화원</PLACE>
+<ORG_LINK>http://www.kcc2000.or.kr/bbs/pds_view.asp?idx=1&amp;BGNO=1000&amp;hno=79</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529144527.JPG</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>전체 관람가</USE_TRGT>
+<USE_FEE>무료</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2692-4266</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>1</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>우리말녹음/94분</PROGRAM>
+<PLAYER/>
+<CONTENTS/>
+<GCODE>강서구</GCODE>
 </row>
 <row>
 <CULTCODE>93739</CULTCODE>
@@ -16334,6 +16604,33 @@ C. Franck		Sonata for Violin and Piano in A Major (Version for Violoncello)&lt;b
 <PLAYER/>
 <CONTENTS/>
 <GCODE>강북구</GCODE>
+</row>
+<row>
+<CULTCODE>93795</CULTCODE>
+<SUBJCODE>1</SUBJCODE>
+<CODENAME>콘서트</CODENAME>
+<TITLE>제781회 목요상설무대</TITLE>
+<STRTDATE>2017-06-29</STRTDATE>
+<END_DATE>2017-06-29</END_DATE>
+<TIME>19:30</TIME>
+<PLACE>강남구민회관</PLACE>
+<ORG_LINK>http://www.gfac.kr/client/perform/eventView.do?id=0bcd7549-c413-4e2b-b33e-ad17e9e3d5f1</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529153747.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>누구나</USE_TRGT>
+<USE_FEE>10000원</USE_FEE>
+<SPONSOR/>
+<INQUIRY>6712-0542</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT>0</AGELIMIT>
+<IS_FREE>0</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>쉽고 재미있는 해설과 함께하는&#13;
+오페라 &lt;카르멘&gt; 갈라</PROGRAM>
+<PLAYER>강화자베세토오페라단</PLAYER>
+<CONTENTS/>
+<GCODE>강남구</GCODE>
 </row>
 <row>
 <CULTCODE>93720</CULTCODE>
@@ -17345,6 +17642,58 @@ C. Franck		Sonata for Violin and Piano in A Major (Version for Violoncello)&lt;b
 <PLAYER>강사 : 손복희</PLAYER>
 <CONTENTS/>
 <GCODE>성동구</GCODE>
+</row>
+<row>
+<CULTCODE>93788</CULTCODE>
+<SUBJCODE>19</SUBJCODE>
+<CODENAME>문화교양/강좌</CODENAME>
+<TITLE>[염창동] 7~8월 헬스 접수</TITLE>
+<STRTDATE>2017-06-26</STRTDATE>
+<END_DATE>2017-06-30</END_DATE>
+<TIME>2017년 7월 ~ 8월, 월~금 06:00 ~ 22:00, 토 06:00 ~ 14:00</TIME>
+<PLACE>염창동자치회관</PLACE>
+<ORG_LINK>http://www.gangseo.seoul.kr/site/dong/app/c3/page1_view.jsp?bcd=notice&amp;ccd=YC0&amp;msq=91089&amp;page=1&amp;s_key=&amp;s_gubun=</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529143843.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>성인</USE_TRGT>
+<USE_FEE>2개월 40000원(월 20000원)</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2600-7326</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT/>
+<IS_FREE>0</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM/>
+<PLAYER/>
+<CONTENTS/>
+<GCODE>강서구</GCODE>
+</row>
+<row>
+<CULTCODE>93787</CULTCODE>
+<SUBJCODE>19</SUBJCODE>
+<CODENAME>문화교양/강좌</CODENAME>
+<TITLE>[염창동] 3분기 자치회관 프로그램 접수</TITLE>
+<STRTDATE>2017-06-19</STRTDATE>
+<END_DATE>2017-06-30</END_DATE>
+<TIME>2017년 7월 ~ 9월</TIME>
+<PLACE>염창동자치회관</PLACE>
+<ORG_LINK>http://www.gangseo.seoul.kr/site/dong/app/c3/page1_view.jsp?bcd=notice&amp;ccd=YC0&amp;msq=91088&amp;page=1&amp;s_key=&amp;s_gubun=</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529143516.gif</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>강서구청 주민</USE_TRGT>
+<USE_FEE>프로그램별 수강료에 따름.</USE_FEE>
+<SPONSOR/>
+<INQUIRY>2600-7326</INQUIRY>
+<SUPPORT/>
+<ETC_DESC/>
+<AGELIMIT/>
+<IS_FREE>0</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM/>
+<PLAYER>프로그램별 강사에 따름.</PLAYER>
+<CONTENTS/>
+<GCODE>강서구</GCODE>
 </row>
 <row>
 <CULTCODE>93753</CULTCODE>
@@ -19046,6 +19395,33 @@ J. Strauss / Radetzky March (라데츠키 행진곡) Op. 228</CONTENTS>
 <GCODE>동대문구</GCODE>
 </row>
 <row>
+<CULTCODE>93783</CULTCODE>
+<SUBJCODE>10</SUBJCODE>
+<CODENAME>기타</CODENAME>
+<TITLE>[생명보험사회공헌위원회 지정법인 사업] 제 52회 다솜이한부모가족사랑캠프FOR</TITLE>
+<STRTDATE>2017-07-01</STRTDATE>
+<END_DATE>2017-07-02</END_DATE>
+<TIME>1박2일</TIME>
+<PLACE>강화그레이스힐</PLACE>
+<ORG_LINK>http://familycampfor.com/</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529082522.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>8세~19세 자녀가 있는 한부모가족</USE_TRGT>
+<USE_FEE>1가족당 20,000원</USE_FEE>
+<SPONSOR/>
+<INQUIRY>02-916-9193 다솜이가족사랑캠프FOR 담당자</INQUIRY>
+<SUPPORT/>
+<ETC_DESC>참가신청하러가기 → http://familycampfor.com/html/gui_sub2.php&#13;
+단체접수는 별도문의해주세요^^*</ETC_DESC>
+<AGELIMIT/>
+<IS_FREE>0</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>가족프로그램,부모프로그램,자녀프로그램 등 세대별프로그램으로 진행됩니다.</PROGRAM>
+<PLAYER/>
+<CONTENTS/>
+<GCODE>인근지역</GCODE>
+</row>
+<row>
 <CULTCODE>93726</CULTCODE>
 <SUBJCODE>2</SUBJCODE>
 <CODENAME>클래식</CODENAME>
@@ -20231,6 +20607,33 @@ Mozart(모차르트)-플룻을 위한 론도 D장조, K.Anh.184&#13;
 <PLAYER/>
 <CONTENTS/>
 <GCODE>도봉구</GCODE>
+</row>
+<row>
+<CULTCODE>93785</CULTCODE>
+<SUBJCODE>1</SUBJCODE>
+<CODENAME>콘서트</CODENAME>
+<TITLE>천원의 문화공감 #9 &lt;Fall in jazz&gt;</TITLE>
+<STRTDATE>2017-07-22</STRTDATE>
+<END_DATE>2017-07-22</END_DATE>
+<TIME>19시 30분(수)</TIME>
+<PLACE>마포아트센터 아트홀맥</PLACE>
+<ORG_LINK>http://bit.ly/2re85WW</ORG_LINK>
+<MAIN_IMG>HTTP://CULTURE.SEOUL.GO.KR/data/ci/20170529135236.jpg</MAIN_IMG>
+<HOMEPAGE/>
+<USE_TRGT>8세이상 관람가[미취학아동입장불가]</USE_TRGT>
+<USE_FEE>전석 1,000원</USE_FEE>
+<SPONSOR/>
+<INQUIRY>02-3274-8600(문의1번)</INQUIRY>
+<SUPPORT/>
+<ETC_DESC>유제하 음악경연대회(1993)출신으로 버클리 음대에서 유학 후 팝.가요,스탠다드 곡 등을 자신만의 스타일로 선보이며 한국적 재즈의 정수를 보여주었다는 평가를 받고 있습니다. 달콤판 재즈 선율과 함께하는 깊어진 여름밤으로 초대합니다.</ETC_DESC>
+<AGELIMIT/>
+<IS_FREE>0</IS_FREE>
+<TICKET>1</TICKET>
+<PROGRAM>화려한 스켓 압도적인 보컬로 &amp;#39;한국의 엘라 피츠 제럴드&amp;#39;로 불리는 국내 최고 재즈 보컬리스트 말로와그녀의 밴드가 7월&lt;천원의 문화공감&gt;을 재즈로 물들입니다.</PROGRAM>
+<PLAYER>말로&amp;말로밴드&#13;
+ (보컬리스트 말로와 그녀의 밴드)</PLAYER>
+<CONTENTS/>
+<GCODE>마포구</GCODE>
 </row>
 <row>
 <CULTCODE>93314</CULTCODE>
