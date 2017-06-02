@@ -25,10 +25,8 @@ def handle_events():
                     traffic.main()
 
 open_canvas(600, 800)
-
 image = load_image('image/menu.png')
 mouseX, mouseY = 0, 0
-
 running = True
 
 while (running):

@@ -4,6 +4,7 @@ from tkinter import ttk
 import xml.etree.ElementTree as ET
 import webbrowser
 import data
+import gmail
 
 class main:
     def __init__(self):
@@ -35,7 +36,6 @@ class main:
         sButton = Button(self.window, text="검색", width=4, command=self.select)
         sButton.place(x=350, y=110)
 
-        # 메일 추가
         eButton = Button(self.window, text="메일", width=4, command=self.mail)
         eButton.place(x=410, y=110)
 
@@ -43,7 +43,7 @@ class main:
         scrollbarX.pack(side=RIGHT, fill=Y)
         scrollbarY = Scrollbar(self.window, orient='horizontal')
         scrollbarY.pack(side=BOTTOM, fill=X)
-        self.listbox = Listbox(self.window, width=58, height=20,
+        self.listbox = Listbox(self.window, width=65, height=25,
                                yscrollcommand=scrollbarX.set, xscrollcommand=scrollbarY.set)
         self.listbox.bind("<Double-Button-1>", self.site)
         self.listbox.place(x=5, y=150)
@@ -102,8 +102,9 @@ class main:
                 webbrowser.open_new(i.findtext("SVCURL"))
                 break
 
-    # 메일 코드 추가
     def mail(self):
-        pass
+        idx = self.listbox.curselection()
+        if len(idx) > 0:
+            gmail.main(self.listbox.get(idx[0]))
 
-#myMain = main()
+myMain = main()

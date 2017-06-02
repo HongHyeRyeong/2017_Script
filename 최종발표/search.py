@@ -3,6 +3,7 @@ from tkinter import ttk
 
 import xml.etree.ElementTree as ET
 import data
+import gmail
 
 class main:
     def __init__(self):
@@ -40,7 +41,7 @@ class main:
         scrollbarX.pack(side=RIGHT, fill=Y)
         scrollbarY = Scrollbar(self.window, orient='horizontal')
         scrollbarY.pack(side=BOTTOM, fill=X)
-        self.listbox = Listbox(self.window, width=58, height=20,
+        self.listbox = Listbox(self.window, width=65, height=25,
                                yscrollcommand=scrollbarX.set, xscrollcommand=scrollbarY.set)
         self.listbox.place(x=5, y=150)
         scrollbarX.config(command=self.listbox.yview)
@@ -90,8 +91,7 @@ class main:
                                +"   시간: "+i.findtext("TIME")+"   장소: "+i.findtext("PLACE")+"   이용대상: "+i.findtext("USE_TRGT"))
                 cnt += 1
 
-    # 메일 코드 추가
     def mail(self):
-        pass
-
-#myMain = main()
+        idx = self.listbox.curselection()
+        if len(idx) > 0:
+            gmail.main(self.listbox.get(idx[0]))
