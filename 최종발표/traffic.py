@@ -3,12 +3,12 @@ from tkinter import ttk
 
 import xml.etree.ElementTree as ET
 import data
+import webbrowser
 import gmail
 
 class main:
     def __init__(self):
         self.myData = data.GetDataTransportration()
-
         self.tree = ET.parse("xml/dataTransportration.xml")
         self.root = self.tree.getroot()
 
@@ -51,4 +51,22 @@ class main:
                 cnt += 1
 
     def map(self):
-        pass
+        mapOK=FALSE
+        #self.Data = data.GetDataXY()
+        self.tree2 = ET.parse("xml/dataXY.xml")  # 좌표 정보
+        self.root2 = self.tree2.getroot()
+
+        for i in self.root2.iter('row'):
+            if self.tValue.get() == i.findtext("FAC_NAME"):
+                mapOK=TRUE
+                X = i.findtext("X_COORD")
+                Y = i.findtext("Y_COORD")
+                url = "https://maps.googleapis.com/maps/api/staticmap?center=" + X + "," + Y + "&zoom=17&size=2048x2048&markers=color:blue%7Clabel:HERE%7C"+X+","+Y
+                webbrowser.open_new(url)
+
+        if FALSE==mapOK:
+            print("지도가 준비되어있지 않습니다.")
+            #메세지창 띄우기
+
+
+#myMain = main()

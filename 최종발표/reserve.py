@@ -30,6 +30,7 @@ class main:
         combo.current(0)
 
         self.tValue = StringVar()
+        print("000",self.tValue.get())
         textbox = ttk.Entry(self.window, width=20, textvariable=self.tValue)
         textbox.place(x=105, y=80)
 
@@ -107,4 +108,4 @@ class main:
         if len(idx) > 0:
             gmail.main(self.listbox.get(idx[0]))
 
-myMain = main()
+# myMain = main()

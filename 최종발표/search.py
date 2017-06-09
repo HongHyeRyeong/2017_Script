@@ -1,9 +1,19 @@
 from tkinter import*
 from tkinter import ttk
 
+import mysmtplib
+from email.mime.base import MIMEBase
+from email.mime.text import MIMEText
+
 import xml.etree.ElementTree as ET
 import data
 import gmail
+
+
+#global value
+host = "smtp.gmail.com" # Gmail STMP 서버 주소.
+port = "587"
+htmlFileName = "logo.html"
 
 class main:
     def __init__(self):
@@ -92,6 +102,71 @@ class main:
                 cnt += 1
 
     def mail(self):
+        self.window = Tk()
+        self.window.title("Gmail")
+        self.window.geometry("400x200")
+
+        self.message = message
+
+        sEmail = Label(self.window, text="보내는 사람의 이메일을 입력해주세요")
+        sEmail.place(x=10, y=15)
+        sPass = Label(self.window, text="보내는 사람의 비밀번호를 입력해주세요")
+        sPass.place(x=10, y=40)
+        rEmail = Label(self.window, text="받는 사람의 이메일을 입력해주세요")
+        rEmail.place(x=10, y=100)
+
+        self.sValue = StringVar() # 보내는 사람 이메일
+        sTextbox = ttk.Entry(self.window, width=20, textvariable=self.sValue)
+        sTextbox.place(x=240, y=15)
+        self.pValue = StringVar() # 보내는 사람 비밀번호
+        pTextbox = ttk.Entry(self.window, width=20, textvariable=self.pValue)
+        pTextbox.place(x=240, y=40)
+        self.rValue = StringVar() # 받는 사람 이메일
+        rTextbox = ttk.Entry(self.window, width=20, textvariable=self.rValue)
+        rTextbox.place(x=240, y=100)
+
+        button = Button(self.window, text="보내기", width=10, command=self.send)
+        button.place(x=150, y=150)
+
+        self.window.mainloop()
+
+
+        msg = MIMEBase("multipart", "alternative")
+        msg['Subject'] = "Test email in Python 3.0"
+        msg['From'] = senderID
+        msg['To'] = receiver
+
+        # MIME 문서를 생성한다.
+        htmlFD = open(htmlFileName, 'rb')
+        HtmlPart = MIMEText(htmlFD.read(), 'html', _charset='UTF-8')
+        htmlFD.close()
+
+        # 만들었던 mime을 MIMEBase에 첨부 시킨다.
+        msg.attach(HtmlPart)
+
+        # 메일을 발송한다.
+        s = mysmtplib.MySMTP(host, port)
+
+        s.ehlo()
+        s.starttls()
+        s.ehlo()
+        s.login(senderID,senderPW)
+        s.sendmail(senderID, receiver, msg.as_string())
+        s.close()
+
+
+
+
+
+
+
+
+
+
         idx = self.listbox.curselection()
         if len(idx) > 0:
-            gmail.main(self.listbox.get(idx[0]))
+            gmail.main(self.listbox.get(idx[0]),self.sValue.get(),self.pValue.get(),self.rValue.get())
+
+
+
+main()
