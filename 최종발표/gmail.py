@@ -1,40 +1,42 @@
 from tkinter import*
 from tkinter import ttk
+import smtplib
+from email.mime.text import MIMEText
 
 class main:
-    def __init__(self, message): # message: 메일에 보내질 내용
+    def __init__(self, message):
         self.window = Tk()
         self.window.title("Gmail")
-        self.window.geometry("400x200")
+        self.window.geometry("400x100")
 
         self.message = message
 
-        sEmail = Label(self.window, text="보내는 사람의 이메일을 입력해주세요")
-        sEmail.place(x=10, y=15)
-        sPass = Label(self.window, text="보내는 사람의 비밀번호를 입력해주세요")
-        sPass.place(x=10, y=40)
         rEmail = Label(self.window, text="받는 사람의 이메일을 입력해주세요")
-        rEmail.place(x=10, y=100)
+        rEmail.place(x=10, y=10)
 
-        self.sValue = StringVar() # 보내는 사람 이메일
-        sTextbox = ttk.Entry(self.window, width=20, textvariable=self.sValue)
-        sTextbox.place(x=240, y=15)
-        self.pValue = StringVar() # 보내는 사람 비밀번호
-        pTextbox = ttk.Entry(self.window, width=20, textvariable=self.pValue)
-        pTextbox.place(x=240, y=40)
         self.rValue = StringVar() # 받는 사람 이메일
-        rTextbox = ttk.Entry(self.window, width=20, textvariable=self.rValue)
-        rTextbox.place(x=240, y=100)
+        self.rTextbox = ttk.Entry(self.window, width=20, textvariable=self.rValue)
+        self.rTextbox.place(x=240, y=10)
 
         button = Button(self.window, text="보내기", width=10, command=self.send)
-        button.place(x=150, y=150)
+        button.place(x=150, y=60)
 
         self.window.mainloop()
 
     def send(self):
-        # 여기에 보내는 코드만 추가하면 됨
-        # self.rValue 이런 변수는 값을 받을 때 self.rValue.get()으로 값을 가져와서 해야함
-        pass
+        msg = MIMEText(self.message, "html", _charset="utf-8")
 
-# gmail파일 돌릴때 아래 주석 풀고
-#main("테스트다")
+        msg['Subject'] = '문화행사 정보'
+        msg['From'] = "ta722blo@gmail.com"
+        msg['To'] = self.rValue.get()
+
+        s = smtplib.SMTP('smtp.gmail.com', 587)
+        s.ehlo()
+        s.starttls()
+        s.ehlo()
+
+        s.login("ta722blo@gmail.com","12345qwert!")
+        s.sendmail("ta722blo@gmail.com", self.rValue.get(), msg.as_string())
+        s.quit()
+
+        self.rTextbox.delete(0, END)
