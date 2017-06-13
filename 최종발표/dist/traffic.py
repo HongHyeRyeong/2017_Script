@@ -8,7 +8,7 @@ import data
 class main:
     def __init__(self):
         self.myData = data.GetDataTransportration()
-        self.tree = ET.parse("xml/dataTransportration.xml")
+        self.tree = ET.parse("dataTransportration.xml")
         self.root = self.tree.getroot()
 
         self.window = Tk()
@@ -52,7 +52,7 @@ class main:
     def map(self):
         mapOK=FALSE
         self.Data = data.GetDataXY()
-        self.tree2 = ET.parse("xml/dataXY.xml")
+        self.tree2 = ET.parse("dataXY.xml")
         self.root2 = self.tree2.getroot()
 
         for i in self.root2.iter('row'):

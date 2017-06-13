@@ -10,7 +10,7 @@ class main:
     def __init__(self):
         self.myData = data.GetDataSearch()
 
-        self.tree = ET.parse("xml/dataSearch.xml")
+        self.tree = ET.parse("dataSearch.xml")
         self.root = self.tree.getroot()
 
         self.window = Tk()

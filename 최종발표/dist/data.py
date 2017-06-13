@@ -5,7 +5,7 @@ def GetDataSearch():
     url = 'http://openAPI.seoul.go.kr:8088/7552447341686c303733527371514a/xml/SearchConcertDetailService/1/999/'
 
     data = urllib.request.urlopen(url).read()
-    f = open("xml/dataSearch.xml","wb")
+    f = open("dataSearch.xml","wb")
     f.write(data)
     f.close()
 
@@ -14,7 +14,7 @@ def GetDataReservation():
     url = "http://openAPI.seoul.go.kr:8088/" + key + "/xml/ListPublicReservationCulture/1/52/"
 
     data = urllib.request.urlopen(url).read()
-    f = open("xml/dataReservation.xml", "wb")
+    f = open("dataReservation.xml", "wb")
     f.write(data)
     f.close()
 
@@ -23,7 +23,7 @@ def GetDataTransportration():
     url = "http://openAPI.seoul.go.kr:8088/" + key + "/xml/SearchCulturalFacilitiesTrafficService/1/999/"
 
     data = urllib.request.urlopen(url).read()
-    f = open("xml/dataTransportration.xml", "wb")
+    f = open("dataTransportration.xml", "wb")
     f.write(data)
     f.close()
 
@@ -32,6 +32,6 @@ def GetDataXY():
     url = "http://openAPI.seoul.go.kr:8088/"+key+"/xml/SearchCulturalFacilitiesDetailService/1/490/"
 
     data = urllib.request.urlopen(url).read()
-    f = open("xml/dataXY.xml", "wb")
+    f = open("dataXY.xml", "wb")
     f.write(data)
     f.close()

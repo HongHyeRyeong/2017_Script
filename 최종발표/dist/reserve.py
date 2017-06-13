@@ -11,7 +11,7 @@ class main:
     def __init__(self):
         self.myData = data.GetDataReservation()
 
-        self.tree = ET.parse("xml/dataReservation.xml")
+        self.tree = ET.parse("dataReservation.xml")
         self.root = self.tree.getroot()
 
         self.window = Tk()

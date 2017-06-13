@@ -3,6 +3,9 @@ from pico2d import *
 import search
 import reserve
 import traffic
+import platform
+import os
+
 
 def handle_events():
     global running
@@ -28,6 +31,12 @@ open_canvas(600, 800)
 image = load_image('image/menu.png')
 mouseX, mouseY = 0, 0
 running = True
+
+if platform.architecture()[0] == '32bit':
+    os.environ["PYSDL2_DLL_PATH"] = "./SDL2/x86"
+else:
+    os.environ["PYSDL2_DLL_PATH"] = "./SDL2/x64"
+
 
 while (running):
     clear_canvas()
