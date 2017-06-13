@@ -27,7 +27,7 @@ def GetDataTransportration():
     f.write(data)
     f.close()
 
-def GetDataXY():     #좌표 받아오는 함수
+def GetDataXY():
     key = '6e4e77665672696e3835725a787a62'
     url = "http://openAPI.seoul.go.kr:8088/"+key+"/xml/SearchCulturalFacilitiesDetailService/1/490/"
 

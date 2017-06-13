@@ -1,10 +1,9 @@
 from tkinter import*
 from tkinter import ttk
-
 import xml.etree.ElementTree as ET
-import data
 import webbrowser
-import gmail
+
+import data
 
 class main:
     def __init__(self):
@@ -52,8 +51,8 @@ class main:
 
     def map(self):
         mapOK=FALSE
-        #self.Data = data.GetDataXY()
-        self.tree2 = ET.parse("xml/dataXY.xml")  # 좌표 정보
+        self.Data = data.GetDataXY()
+        self.tree2 = ET.parse("xml/dataXY.xml")
         self.root2 = self.tree2.getroot()
 
         for i in self.root2.iter('row'):
@@ -65,8 +64,4 @@ class main:
                 webbrowser.open_new(url)
 
         if FALSE==mapOK:
-            print("지도가 준비되어있지 않습니다.")
-            #메세지창 띄우기
-
-
-#myMain = main()
+            pass

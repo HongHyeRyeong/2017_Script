@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchCulturalFacilitiesDetailService>
-<list_total_count>490</list_total_count>
+<list_total_count>491</list_total_count>
 <RESULT>
 <CODE>INFO-000</CODE>
 <MESSAGE>정상 처리되었습니다</MESSAGE>
@@ -19380,6 +19380,27 @@ KBS홀 광장은 비롯한 정원에 배치되어 있는 수준 높은 조형작
 <ENTRFREE/>
 </row>
 <row>
+<FAC_CODE>100930</FAC_CODE>
+<SUBJCODE>4</SUBJCODE>
+<CODENAME>미술관</CODENAME>
+<FAC_NAME><![CDATA[아르코미술관]]></FAC_NAME>
+<MAIN_IMG/>
+<ADDR><![CDATA[서울  종로구 동숭동 1-130]]></ADDR>
+<PHNE>02-760-4626</PHNE>
+<FAX/>
+<HOMEPAGE><![CDATA[http://art.arko.or.kr]]></HOMEPAGE>
+<OPENHOUR/>
+<ENTR_FEE/>
+<CLOSEDAY>월요일</CLOSEDAY>
+<OPEN_DAY/>
+<SEAT_CNT/>
+<X_COORD>37.5800905419</X_COORD>
+<Y_COORD>127.0029797043</Y_COORD>
+<ETC_DESC/>
+<FAC_DESC/>
+<ENTRFREE/>
+</row>
+<row>
 <FAC_CODE>100914</FAC_CODE>
 <SUBJCODE>11</SUBJCODE>
 <CODENAME>기타</CODENAME>
@@ -19499,7 +19520,7 @@ KBS홀 광장은 비롯한 정원에 배치되어 있는 수준 높은 조형작
 <FAC_CODE>100925</FAC_CODE>
 <SUBJCODE>11</SUBJCODE>
 <CODENAME>기타</CODENAME>
-<FAC_NAME><![CDATA[동대문디자인플라자(DDP) 보행전용거리]]></FAC_NAME>
+<FAC_NAME><![CDATA[보행전용거리(동대문디자인플라자 주변)]]></FAC_NAME>
 <MAIN_IMG/>
 <ADDR><![CDATA[서울  중구 을지로7가 2-1]]></ADDR>
 <PHNE>031-330-4853</PHNE>
@@ -19513,8 +19534,7 @@ KBS홀 광장은 비롯한 정원에 배치되어 있는 수준 높은 조형작
 <X_COORD>37.56750154097212</X_COORD>
 <Y_COORD>127.00894213590759</Y_COORD>
 <ETC_DESC/>
-<FAC_DESC><![CDATA[<!&#45;&#45;startfragment&#45;&#45;>
-<p class=0 style=&quot;TEXT-AUTOSPACE: ; mso-pagination: none; mso-padding-alt: 0pt 0pt 0pt 0pt&quot;><?xml:namespace prefix = &quot;v&quot; ns = &quot;urn:schemas-microsoft-com:vml&quot; /><v:shapetype id=_x0000_t75 coordsize=&quot;21600,21600&quot; o:spt=&quot;75&quot; o:preferrelative=&quot;t&quot; path=&quot;m@4@5l@4@11@9@11@9@5xe&quot; filled=&quot;f&quot; stroked=&quot;f&quot;><v:stroke joinstyle=&quot;miter&quot;></v:stroke><v:formulas><v:f eqn=&quot;if lineDrawn pixelLineWidth 0&quot;></v:f><v:f eqn=&quot;sum @0 1 0&quot;></v:f><v:f eqn=&quot;sum 0 0 @1&quot;></v:f><v:f eqn=&quot;prod @2 1 2&quot;></v:f><v:f eqn=&quot;prod @3 21600 pixelWidth&quot;></v:f><v:f eqn=&quot;prod @3 21600 pixelHeight&quot;></v:f><v:f eqn=&quot;sum @0 0 1&quot;></v:f><v:f eqn=&quot;prod @6 1 2&quot;></v:f><v:f eqn=&quot;prod @7 21600 pixelWidth&quot;></v:f><v:f eqn=&quot;sum @8 21600 0&quot;></v:f><v:f eqn=&quot;prod @7 21600 pixelHeight&quot;></v:f><v:f eqn=&quot;sum @10 21600 0&quot;></v:f></v:formulas><v:path o:extrusionok=&quot;f&quot; gradientshapeok=&quot;t&quot; o:connecttype=&quot;rect&quot;></v:path><?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; /><o:lock v:ext=&quot;edit&quot; aspectratio=&quot;t&quot;><img src=&quot;http://culture.seoul.go.kr/data/cf/20170328163210.png&quot; /></o:lock></v:shapetype></p>]]></FAC_DESC>
+<FAC_DESC><![CDATA[<!&#45;&#45;startfragment&#45;&#45;><img src=&quot;http://culture.seoul.go.kr/data/cf/20170328163210.png&quot; />]]></FAC_DESC>
 <ENTRFREE/>
 </row>
 <row>
@@ -19897,31 +19917,6 @@ KBS홀 광장은 비롯한 정원에 배치되어 있는 수준 높은 조형작
 <img src=&quot;/data/cf/20161206154900.jpg&quot; />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src=&quot;/data/cf/20161206154932.jpg&quot; /></p>
 <p><br />
 &nbsp;</p>]]></FAC_DESC>
-<ENTRFREE/>
-</row>
-<row>
-<FAC_CODE>100904</FAC_CODE>
-<SUBJCODE>6</SUBJCODE>
-<CODENAME>문화예술회관</CODENAME>
-<FAC_NAME><![CDATA[개포디지털혁신파크 열림관]]></FAC_NAME>
-<MAIN_IMG>http://culture.seoul.go.kr/data/cf/20170111111135.jpg</MAIN_IMG>
-<ADDR><![CDATA[서울  강남구 개포동 153-153  개포디지털혁신파크 열림관]]></ADDR>
-<PHNE>02-570-4631</PHNE>
-<FAX/>
-<HOMEPAGE><![CDATA[http://sdf.seoul.kr/]]></HOMEPAGE>
-<OPENHOUR/>
-<ENTR_FEE/>
-<CLOSEDAY>토, 일</CLOSEDAY>
-<OPEN_DAY/>
-<SEAT_CNT/>
-<X_COORD>37.4882029</X_COORD>
-<Y_COORD>127.0629127</Y_COORD>
-<ETC_DESC/>
-<FAC_DESC><![CDATA[디지털공연, 국제 컨퍼런스, 데모데이, 해커톤, 전시회 등<br />
-
-* 규모 : (극장식)300석, (강의식)100석<br />
-
-* 주요장비 : 방송, 음향시설]]></FAC_DESC>
 <ENTRFREE/>
 </row>
 </SearchCulturalFacilitiesDetailService>

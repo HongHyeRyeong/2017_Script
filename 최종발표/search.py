@@ -1,15 +1,10 @@
 from tkinter import*
 from tkinter import ttk
-
+import smtplib
+from email.mime.text import MIMEText
 import xml.etree.ElementTree as ET
+
 import data
-import gmail
-
-
-#global value
-host = "smtp.gmail.com" # Gmail STMP 서버 주소.
-port = "587"
-htmlFileName = "logo.html"
 
 class main:
     def __init__(self):
@@ -29,7 +24,7 @@ class main:
         self.cValue = StringVar()
         combo = ttk.Combobox(self.window, width=5, textvariable=self.cValue, state="readonly")
         combo['values'] = ('Select', '장르', '제목')
-        combo.place(x=30, y=80)
+        combo.place(x=35, y=80)
         combo.current(0)
 
         self.tValue = StringVar()
@@ -37,11 +32,14 @@ class main:
         textbox.place(x=105, y=80)
 
         sButton = Button(self.window, text="검색", width=4, command=self.select)
-        sButton.place(x=350, y=110)
+        sButton.place(x=410, y=78)
+
+        self.mValue = StringVar()
+        self.mTextbox = ttk.Entry(self.window, width=20, textvariable=self.mValue)
+        self.mTextbox.place(x=250, y=542)
 
         eButton = Button(self.window, text="메일", width=4, command=self.mail)
-        eButton.place(x=410, y=110)
-
+        eButton.place(x=410, y=540)
 
         scrollbarX = Scrollbar(self.window)
         scrollbarX.pack(side=RIGHT, fill=Y)
@@ -49,7 +47,7 @@ class main:
         scrollbarY.pack(side=BOTTOM, fill=X)
         self.listbox = Listbox(self.window, width=65, height=25,
                                yscrollcommand=scrollbarX.set, xscrollcommand=scrollbarY.set)
-        self.listbox.place(x=5, y=150)
+        self.listbox.place(x=5, y=120)
         scrollbarX.config(command=self.listbox.yview)
         scrollbarY.config(command=self.listbox.xview)
 
@@ -99,5 +97,21 @@ class main:
 
     def mail(self):
         idx = self.listbox.curselection()
-        if len(idx) > 0:
-            gmail.main(self.listbox.get(idx[0]))
+
+        if len(idx) > 0 and self.mValue.get() != "":
+            msg = MIMEText(self.listbox.get(idx[0]), "html", _charset="utf-8")
+
+            msg['Subject'] = '문화행사 정보'
+            msg['From'] = "ta722blo@gmail.com"
+            msg['To'] = self.mValue.get()
+
+            s = smtplib.SMTP('smtp.gmail.com', 587)
+            s.ehlo()
+            s.starttls()
+            s.ehlo()
+
+            s.login("ta722blo@gmail.com", "12345qwert!")
+            s.sendmail("ta722blo@gmail.com", self.mValue.get(), msg.as_string())
+            s.quit()
+
+            self.mTextbox.delete(0, END)
